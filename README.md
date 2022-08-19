@@ -3,7 +3,7 @@ a python tool for changing mac with great ui
 
 
 # installtion
-git clone https://github.com/exploit40/maczac
+git clone https://github.com/exploit40/maczac \n
 cd maczac
 sudo pip3 install -r requirements.txt
 
